@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 830264957
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bathroom_cleaner
+      Dependencies: {}
